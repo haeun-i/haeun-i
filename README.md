@@ -2,7 +2,7 @@
 </br>
 </br>
 <p align="center"><img src="https://user-images.githubusercontent.com/76279010/131073891-1a715ecc-f432-4c31-96b6-f6e555588bcd.gif" width="300" height="300"></p>
-<p align="center"> Hi, I'm haeun, a junior fullStack developer🌱</p>
+<p align="center"> Hi I'm haeun, a junior fullStack developer🌱</p>
 </br>
 
 
