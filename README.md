@@ -2,7 +2,7 @@
 </br>
 </br>
 <p align="center"><img src="https://user-images.githubusercontent.com/76279010/131073891-1a715ecc-f432-4c31-96b6-f6e555588bcd.gif" width="300" height="300"></p>
-<p align="center"> Hi I'm haeun, a junior fullStack developer🌱</p>
+<p align="center"> Hi I'm haeun, a junior fullstack developer🌱</p>
 </br>
 
 
@@ -34,7 +34,7 @@
 <h4 align="center"><b>📞 Contact Me 📞</b></h3>
 
 <p align="center">
-<a mailto:"gkdms1120s@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:gkdms1120s@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gkdms1120s@gmail.com"/></a>
 <a href="https://instagram.com/nueahx_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://velog.io/@haeun-i" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </p>
