@@ -10,10 +10,10 @@
   
 |Period|Description|
 |---|---|
-|2024.01 ~ 현재 |Nexters 24th BackEnd Part|
-|2023.08 ~ 현재 |삼성 청년 SW 아카데미(SSAFY) |
+|2024.01 ~ 현재 |Nexters 24기 Backend|
+|2023.08 ~ 현재 |삼성 청년 SW 아카데미(SSAFY) 10기|
 |2021.09 ~ 2022.2|GDSC (Google Developer Student Clubs) INHA Member|
-|2021.09 ~ 2021.11|KUSITMS 24th Development Part|
+|2021.09 ~ 2021.11|KUSITMS 24기 개발팀|
 </div>
 </br>
 <div>
